@@ -1,4 +1,3 @@
-# Local_repo1
-Hi there
-hello
-there
+# How to print a statement in C language
+
+printf("I could do this all day");
